@@ -22,7 +22,7 @@ namespace testcs
                 }
                 /* 
                 //despues de una captura genereal no se puede hacer una captura de uno que herede de exceptio
-                //siempre la que es mas concreta debe ir antes de la general.
+                //siempre la que es mas concreta debe ir antes de la general.  2019
                 catch (FormatException e)
                 {   
                     Console.WriteLine("Has introducido texto.");
